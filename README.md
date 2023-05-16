@@ -21,6 +21,9 @@ It should be pretty simple to set up. Here's the rundown:
   4. Copy the **Client ID** from the Twitch console for the app to the
      **twitch_client_id** exported variable.
 
+![Screenshot of the dev console emphasizing the above
+information.](dev_console_example.png)
+
 If everything is set up correctly and nothing else has been touched,
 this should automatically trigger an attempt to authenticate on
 startup.
